@@ -1,0 +1,7 @@
+D:\dev\C#\ReverseShell\ReverseShell\bin\Debug\ReverseShell.exe.config
+D:\dev\C#\ReverseShell\ReverseShell\bin\Debug\ReverseShell.exe
+D:\dev\C#\ReverseShell\ReverseShell\bin\Debug\ReverseShell.pdb
+D:\dev\C#\ReverseShell\ReverseShell\obj\Debug\ReverseShell.csprojAssemblyReference.cache
+D:\dev\C#\ReverseShell\ReverseShell\obj\Debug\ReverseShell.csproj.CoreCompileInputs.cache
+D:\dev\C#\ReverseShell\ReverseShell\obj\Debug\ReverseShell.exe
+D:\dev\C#\ReverseShell\ReverseShell\obj\Debug\ReverseShell.pdb

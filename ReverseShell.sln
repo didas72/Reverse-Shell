@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseShell", "ReverseShell\ReverseShell.csproj", "{0A110A70-CEEB-4316-99C4-8DDA420A8BDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseShellClient", "ReverseShellClient\ReverseShellClient.csproj", "{4B09B64A-0033-469D-B356-E598CC0760BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseShellWrapper", "ReverseShellWrapper\ReverseShellWrapper.csproj", "{9810C1E4-CB65-4361-B0F2-1BCBFAB77EAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseShellCodeEncryptor", "ReverseShellCodeEncryptor\ReverseShellCodeEncryptor.csproj", "{2B0D60E5-4110-4A54-95DA-91FC91CB70C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A110A70-CEEB-4316-99C4-8DDA420A8BDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A110A70-CEEB-4316-99C4-8DDA420A8BDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A110A70-CEEB-4316-99C4-8DDA420A8BDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A110A70-CEEB-4316-99C4-8DDA420A8BDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B09B64A-0033-469D-B356-E598CC0760BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B09B64A-0033-469D-B356-E598CC0760BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B09B64A-0033-469D-B356-E598CC0760BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B09B64A-0033-469D-B356-E598CC0760BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9810C1E4-CB65-4361-B0F2-1BCBFAB77EAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9810C1E4-CB65-4361-B0F2-1BCBFAB77EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9810C1E4-CB65-4361-B0F2-1BCBFAB77EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9810C1E4-CB65-4361-B0F2-1BCBFAB77EAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B0D60E5-4110-4A54-95DA-91FC91CB70C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B0D60E5-4110-4A54-95DA-91FC91CB70C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B0D60E5-4110-4A54-95DA-91FC91CB70C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B0D60E5-4110-4A54-95DA-91FC91CB70C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6692ABE1-922C-448C-93B4-A12ECCBF96D9}
+	EndGlobalSection
+EndGlobal
